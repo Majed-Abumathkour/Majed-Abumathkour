@@ -26,7 +26,7 @@ backend-oriented problem solving.
 
 ## 📌 Portfolio
 
-<table cellspacing="8" cellpadding="6">
+<table cellspacing="8" cellpadding="6" border="0" style="border-collapse:separate; border:0;">
   <tr>
     <td align="center">
       <a href="https://github.com/Majed-Abumathkour/personal-website">
@@ -57,7 +57,7 @@ Projects completed through external learning platforms (e.g. Elzero Academy).
 
 ### Elzero Web School
 
-<table cellspacing="8" cellpadding="6">
+<table cellspacing="8" cellpadding="6" border="0" style="border-collapse:separate; border:0;">
   <tr>
     <td align="center">
       <a href="https://github.com/Majed-Abumathkour/mountains">
@@ -76,7 +76,7 @@ Projects completed through external learning platforms (e.g. Elzero Academy).
 
 Projects completed through structured self-study.
 
-<table cellspacing="8" cellpadding="6">
+<table cellspacing="8" cellpadding="6" border="0" style="border-collapse:separate; border:0;">
   <tr>
     <td align="center">
       <a href="https://github.com/Majed-Abumathkour/python-simple-projects">
@@ -95,7 +95,7 @@ Repositories under active development, experimentation, or learning.
 Projects that are currently paused or archived, with the intention to revisit
 them in the future.
 
-<table cellspacing="8" cellpadding="6"> 
+<table cellspacing="8" cellpadding="6" border="0" style="border-collapse:separate; border:0;"> 
   <tr>
     <td align="center">
       <a href="https://github.com/Majed-Abumathkour/saba7o-challenge">
