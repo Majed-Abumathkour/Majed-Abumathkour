@@ -116,13 +116,14 @@ Faculty of Information Technology
 ### Web Development 1 Practical - SDEV2105
 <p>
   <a href="https://github.com/Majed-Abumathkour/iug-fedex-company-profile">
-    <img src="https://img.shields.io/badge/FedEx%20Company%20Profile-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="FedEx Company Profile" style="border-radius:10px; border:1px solid #67ecd6ff;">
+    <img src="https://img.shields.io/badge/FedEx%20Company%20Profile-67ecd6?style=for-the-badge&logo=github&logoColor=white" alt="FedEx Company Profile" style="border-radius:10px; border:1px solid #67ecd6;">
   </a>
 </p>
 
 ### Data Structures and Algorithms 1 Practical - CSCI2109
 <p>
-  <a href="https://github.com/Majed-Abumathkour/iug-fedex-company-profile">
-    <img src="https://img.shields.io/badge/Library%20Management%20System-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="FedEx Company Profile" style="border-radius:10px; border:1px solid #5f6866ff;">
+  <a href="https://github.com/Majed-Abumathkour/iug-library-management-system">
+    <img src="https://img.shields.io/badge/Library%20Management%20System-0A66C2?style=for-the-badge&logo=github&logoColor=white&v=2" alt="Library Management System" style="border-radius:10px; border:1px solid #0A66C2;">
   </a>
 </p>
+
