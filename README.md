@@ -119,6 +119,12 @@ Faculty of Information Technology
     <img src="https://img.shields.io/badge/FedEx%20Company%20Profile-67ecd6?style=for-the-badge&logo=github&logoColor=white" alt="FedEx Company Profile" style="border-radius:10px; border:1px solid #67ecd6;">
   </a>
 </p>
+&nbsp;
+<p>
+  <a href="https://github.com/Majed-Abumathkour/fedex-auth.git">
+    <img src="https://img.shields.io/badge/FedEx%20Auth-67ecd6?style=for-the-badge&logo=github&logoColor=white" alt="FedEx Company Profile" style="border-radius:10px; border:1px solid #67ecd6;">
+  </a>
+</p>
 
 ### Data Structures and Algorithms 1 Practical - CSCI2109
 <p>
