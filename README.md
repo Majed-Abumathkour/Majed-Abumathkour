@@ -114,6 +114,7 @@ Faculty of Information Technology
 > university courses. Courses are listed in the order studied.
 
 ### Web Development 1 Practical - SDEV2105
+
 <p>
   <a href="https://github.com/Majed-Abumathkour/iug-fedex-company-profile">
     <img src="https://img.shields.io/badge/FedEx%20Company%20Profile-67ecd6?style=for-the-badge&logo=github&logoColor=white" alt="FedEx Company Profile" style="border-radius:10px; border:1px solid #67ecd6;">
@@ -122,12 +123,17 @@ Faculty of Information Technology
   <a href="https://github.com/Majed-Abumathkour/fedex-auth.git">
     <img src="https://img.shields.io/badge/FedEx%20Auth-67ecd6?style=for-the-badge&logo=github&logoColor=white" alt="FedEx Auth" style="border-radius:10px; border:1px solid #67ecd6;">
   </a>
+  &nbsp;
+  <a href="https://github.com/Majed-Abumathkour/iug-study-buddy.git">
+    <img src="https://img.shields.io/badge/Final%20Project%20Study%20Buddy-293331?style=for-the-badge&logo=github&logoColor=white" alt="Final Project Study Buddy" style="border-radius:10px; border:1px solid #293331;">
+  </a>
+
 </p>
 
 ### Data Structures and Algorithms 1 Practical - CSCI2109
+
 <p>
   <a href="https://github.com/Majed-Abumathkour/iug-library-management-system">
     <img src="https://img.shields.io/badge/Library%20Management%20System-0A66C2?style=for-the-badge&logo=github&logoColor=white&v=2" alt="Library Management System" style="border-radius:10px; border:1px solid #0A66C2;">
   </a>
 </p>
-
