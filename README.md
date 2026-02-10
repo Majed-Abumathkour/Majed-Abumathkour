@@ -52,7 +52,7 @@ backend-oriented problem solving.
 
 <p>
   <a href="https://github.com/Majed-Abumathkour/personal-website">
-    <img src="https://img.shields.io/badge/Personal%20Website-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Personal Website" style="border-radius:10px; border:1px solid #0ea5e9;">
+    <img src="https://img.shields.io/badge/Personal%20Website-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Personal Website">
   </a>
 </p>
 
@@ -64,11 +64,11 @@ Projects completed through external learning platforms.
 
 <p>
   <a href="https://github.com/Majed-Abumathkour/mountains">
-    <img src="https://img.shields.io/badge/Mountains-f97316?style=for-the-badge&logo=github&logoColor=white" alt="Mountains" style="border-radius:10px; border:1px solid #f97316;">
+    <img src="https://img.shields.io/badge/Mountains-9a6700?style=for-the-badge&logo=github&logoColor=white" alt="Mountains">
   </a>
   &nbsp;
   <a href="https://github.com/Majed-Abumathkour/kasper">
-    <img src="https://img.shields.io/badge/Kasper-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Kasper" style="border-radius:10px; border:1px solid #2563eb;">
+    <img src="https://img.shields.io/badge/Kasper-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Kasper">
   </a>
 </p>
 
@@ -78,13 +78,13 @@ Projects completed through structured self-study.
 
 <p>
   <a href="https://github.com/Majed-Abumathkour/python-simple-projects">
-    <img src="https://img.shields.io/badge/Python%20Simple%20Projects-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="Python Simple Projects" style="border-radius:10px; border:1px solid #16a34a;">
+    <img src="https://img.shields.io/badge/Python%20Simple%20Projects-1a7f37?style=for-the-badge&logo=github&logoColor=white" alt="Python Simple Projects">
   </a>
 </p>
 
-## 🚧 Work in Progress
+<!-- ## 🚧 Work in Progress
 
-Repositories under active development, experimentation, or learning.
+Repositories under active development, experimentation, or learning. -->
 
 ## 🗂️ Postponed / Archived Projects
 
@@ -93,15 +93,15 @@ them in the future.
 
 <p>
   <a href="https://github.com/Majed-Abumathkour/saba7o-challenge">
-    <img src="https://img.shields.io/badge/Saba7o%20Challenge-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Saba7o Challenge" style="border-radius:10px; border:1px solid #7c3aed;">
+    <img src="https://img.shields.io/badge/Saba7o%20Challenge-8250df?style=for-the-badge&logo=github&logoColor=white" alt="Saba7o Challenge">
   </a>
   &nbsp;
   <a href="https://github.com/Majed-Abumathkour/Nassouhy-Challenge">
-    <img src="https://img.shields.io/badge/Nassouhy%20Challenge-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Nassouhy Challenge" style="border-radius:10px; border:1px solid #0f766e;">
+    <img src="https://img.shields.io/badge/Nassouhy%20Challenge-1b7f83?style=for-the-badge&logo=github&logoColor=white" alt="Nassouhy Challenge">
   </a>
   &nbsp;
   <a href="https://github.com/Majed-Abumathkour/notes-web-application">
-    <img src="https://img.shields.io/badge/Notes%20Web%20App%20(Flask)-334155?style=for-the-badge&logo=github&logoColor=white" alt="Notes Web App with Flask" style="border-radius:10px; border:1px solid #334155;">
+    <img src="https://img.shields.io/badge/Notes%20Web%20App%20(Flask)-6e7781?style=for-the-badge&logo=github&logoColor=white" alt="Notes Web App with Flask">
   </a>
 </p>
 
@@ -113,35 +113,43 @@ Faculty of Information Technology
 > This section organizes projects and assignments completed as part of
 > university courses. Courses are listed in the order studied.
 
-### Web Development 1 Practical - SDEV2105
+### Year 2 - Term 1 (Fall 2025)
+
+#### Web Development 1 Practical - SDEV2105
 
 <p>
   <a href="https://github.com/Majed-Abumathkour/iug-fedex-company-profile">
-    <img src="https://img.shields.io/badge/FedEx%20Company%20Profile-67ecd6?style=for-the-badge&logo=github&logoColor=white" alt="FedEx Company Profile" style="border-radius:10px; border:1px solid #67ecd6;">
+    <img src="https://img.shields.io/badge/FedEx%20Company%20Profile-1b7f83?style=for-the-badge&logo=github&logoColor=white" alt="FedEx Company Profile">
   </a>
 &nbsp;
   <a href="https://github.com/Majed-Abumathkour/fedex-auth.git">
-    <img src="https://img.shields.io/badge/FedEx%20Auth-67ecd6?style=for-the-badge&logo=github&logoColor=white" alt="FedEx Auth" style="border-radius:10px; border:1px solid #67ecd6;">
+    <img src="https://img.shields.io/badge/FedEx%20Auth-1b7f83?style=for-the-badge&logo=github&logoColor=white" alt="FedEx Auth">
   </a>
   &nbsp;
   <a href="https://github.com/Majed-Abumathkour/iug-study-buddy.git">
-    <img src="https://img.shields.io/badge/Final%20Project%20Study%20Buddy-293331?style=for-the-badge&logo=github&logoColor=white" alt="Final Project Study Buddy" style="border-radius:10px; border:1px solid #293331;">
+    <img src="https://img.shields.io/badge/Final%20Project%20Study%20Buddy-6e7781?style=for-the-badge&logo=github&logoColor=white" alt="Final Project Study Buddy">
   </a>
 
 </p>
 
-### Data Structures and Algorithms 1 Practical - CSCI2109
+#### Data Structures and Algorithms 1 Practical - CSCI2109
 
 <p>
   <a href="https://github.com/Majed-Abumathkour/iug-library-management-system">
-    <img src="https://img.shields.io/badge/Library%20Management%20System-0A66C2?style=for-the-badge&logo=github&logoColor=white&v=2" alt="Library Management System" style="border-radius:10px; border:1px solid #0A66C2;">
+    <img src="https://img.shields.io/badge/Library%20Management%20System-0969da?style=for-the-badge&logo=github&logoColor=white&v=2" alt="Library Management System">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Majed-Abumathkour/iug-arboria-tree-missions">
+    <img src="https://img.shields.io/badge/Arboria%20Tree%20Missions-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Arboria Tree Missions">
   </a>
 </p>
 
-### Web & Multimedia Engineering (هندسة برمجيات) - WDMM3314
+#### Web & Multimedia Engineering (هندسة برمجيات) - WDMM3314
 
 <p>
   <a href="https://github.com/Majed-Abumathkour/iug-software-engineering-final-project-sabaho-challenge">
-    <img src="https://img.shields.io/badge/%20Final%20Project%20Sabaho%20Challenge-05131a?style=for-the-badge&logo=github&logoColor=white" alt="Final Project Sabaho Challenge" style="border-radius:10px; border:1px solid #05131a;">
+    <img src="https://img.shields.io/badge/%20Final%20Project%20Sabaho%20Challenge-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Final Project Sabaho Challenge">
   </a>
 </p>
+
+#### Databases (1) Practical - CSCI2114
