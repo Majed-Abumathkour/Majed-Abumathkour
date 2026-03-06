@@ -113,9 +113,19 @@ Faculty of Information Technology
 > This section organizes projects and assignments completed as part of
 > university courses. Courses are listed in the order studied.
 
+### Year 1 - Term 2
+
+#### Programming (2) - Lab
+
+<p>
+  <a href="https://github.com/Majed-Abumathkour/attendance-management">
+    <img src="https://img.shields.io/badge/Attendance%20Management-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Attendance Management">
+  </a>
+</p>
+
 ### Year 2 - Term 1 (Fall 2025)
 
-#### Web Development 1 Practical - SDEV2105
+#### Web Development 1 - Lab - SDEV2105
 
 <p>
   <a href="https://github.com/Majed-Abumathkour/iug-fedex-company-profile">
@@ -132,7 +142,7 @@ Faculty of Information Technology
 
 </p>
 
-#### Data Structures and Algorithms 1 Practical - CSCI2109
+#### Data Structures and Algorithms 1 - Lab - CSCI2109
 
 <p>
   <a href="https://github.com/Majed-Abumathkour/iug-library-management-system">
@@ -152,4 +162,4 @@ Faculty of Information Technology
   </a>
 </p>
 
-#### Databases (1) Practical - CSCI2114
+#### Databases (1) - Lab - CSCI2114
