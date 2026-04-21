@@ -34,12 +34,16 @@ backend-oriented problem solving.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL / MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </p>
 
 ### Tools & Version Control
@@ -82,9 +86,15 @@ Projects completed through structured self-study.
   </a>
 </p>
 
-<!-- ## 🚧 Work in Progress
+## 🚧 Currently Under Development Projects
 
-Repositories under active development, experimentation, or learning. -->
+Repositories under active development, experimentation, or learning.
+
+<p>
+  <a href="https://github.com/Majed-Abumathkour/saba7o-challenge">
+    <img src="https://img.shields.io/badge/Saba7o%20Challenge-8250df?style=for-the-badge&logo=github&logoColor=white" alt="Saba7o Challenge">
+  </a>
+</p>
 
 ## 🗂️ Postponed / Archived Projects
 
@@ -92,10 +102,6 @@ Projects that are currently paused or archived, with the intention to revisit
 them in the future.
 
 <p>
-  <a href="https://github.com/Majed-Abumathkour/saba7o-challenge">
-    <img src="https://img.shields.io/badge/Saba7o%20Challenge-8250df?style=for-the-badge&logo=github&logoColor=white" alt="Saba7o Challenge">
-  </a>
-  &nbsp;
   <a href="https://github.com/Majed-Abumathkour/Nassouhy-Challenge">
     <img src="https://img.shields.io/badge/Nassouhy%20Challenge-1b7f83?style=for-the-badge&logo=github&logoColor=white" alt="Nassouhy Challenge">
   </a>
@@ -162,4 +168,12 @@ Faculty of Information Technology
   </a>
 </p>
 
-#### Databases (1) - Lab - CSCI2114
+### Year 2 - Term 2 (Spring 2026)
+
+#### Web Development 2 - Lab
+
+<p>
+  <a href="https://github.com/Majed-Abumathkour/PHP-Basics-Advanced-Assignment">
+    <img src="https://img.shields.io/badge/PHP%20Basics%20Advanced%20Assignment-cf222e?style=for-the-badge&logo=github&logoColor=white" alt="PHP Basics Advanced Assignment">
+  </a>
+</p>
